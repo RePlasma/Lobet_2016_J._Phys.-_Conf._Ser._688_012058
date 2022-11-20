@@ -1,6 +1,7 @@
 # Modeling of radiative and quantum electrodynamics effects in PIC simulations of ultra-relativistic laser-plasma interaction
 
 M Lobet et al 2016 J. Phys.: Conf. Ser. 688 012058
+https://iopscience.iop.org/article/10.1088/1742-6596/688/1/012058
 
 Authors of paper: M Lobet, E d'Humières, M Grech, C Ruyer, X Davoine and L Gremillet
 
